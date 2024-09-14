@@ -1,5 +1,9 @@
 #? Filtrar todos os pokemons com bee ou bel no nome
 
+library("tidyverse")
+
+dados <- read.csv("C:/Users/richa/Desktop/Doutorado/Disciplinas/2º semestre/Ferramentas Computacionais/praticaR/atividade/Pokemon_full.csv")
+
 dados %>%
   group_by(name) %>%
     mutate(

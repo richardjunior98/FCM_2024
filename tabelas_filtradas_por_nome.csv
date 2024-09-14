@@ -1,0 +1,7 @@
+"name","pokedex.id","height","weight","type","secundary.type","hp","attack","defense","sp.atk","sp.def","speed"
+"bellsprout","69","7","40","grass","poison","50","75","35","70","30","40"
+"weepinbell","70","10","64","grass","poison","65","90","50","85","45","55"
+"victreebel","71","17","155","grass","poison","80","105","65","100","70","70"
+"bellossom","182","4","58","grass","None","75","80","95","90","100","50"
+"beldum","374","6","952","steel","psychic","40","55","80","35","60","30"
+"morpeko-full-belly","877","3","30","electric","dark","58","95","58","70","58","97"
